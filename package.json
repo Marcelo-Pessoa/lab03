@@ -1,0 +1,16 @@
+{
+  "name": "lab03_01",
+  "version": "1.0.0",
+  "description": "Exercicio 01 do lab 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Marcelo Pessoa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "ts-jest": "^29.3.4",
+    "ts-node": "^10.9.2"
+  }
+}
